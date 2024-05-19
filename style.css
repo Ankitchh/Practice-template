@@ -1,0 +1,17 @@
+*P{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    min-height: 100vh;
+}
+/* 
+ */
+.box{
+    background-color: #000;
+    color: white  ;
+    font-size: 2rem;
+    padding: .5rem;
+}
